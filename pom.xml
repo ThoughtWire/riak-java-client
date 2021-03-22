@@ -71,7 +71,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <powermock.version>1.6.5</powermock.version>
         <slf4j.version>1.7.21</slf4j.version>
-        <jackson.version>2.8.0</jackson.version>
+        <jackson.version>2.12.2</jackson.version>
         <java.target.version>1.8</java.target.version>
     </properties>
 
